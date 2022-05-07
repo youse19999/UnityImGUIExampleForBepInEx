@@ -7,9 +7,6 @@ namespace TheKoikatuDevHax
     [BepInPlugin("0123121", "Hax", "1.0.0")]
     public class Class1:BaseUnityPlugin
     {
-        //HAHA NICE DEBUGGER
-        //YOU CAN EDIT THIS CODES.
-        //BUT IF YOU WANNA UPLOAD PLEASE ADD LINK GITHUB OR DOWNLOADLINK WITH THIS CODE.
         bool isopen = false;
         private void Awake()
         {
